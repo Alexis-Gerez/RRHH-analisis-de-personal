@@ -1,6 +1,6 @@
 # RRHH-analisis-de-personal
 
-# 📊 Capstone Project: Providing Data-Driven Suggestions for HR
+# 📊 Proyecto: Proporcionar sugerencias basadas en datos para RR.HH.
 
 📌 **Resumen del Proyecto**
 Este proyecto analiza datos de Recursos Humanos mediante técnicas de Machine Learning y análisis exploratorio para mejorar la toma de decisiones en gestión del talento. Utilizamos **Python, Pandas, Seaborn, XGBoost y Scikit-Learn** para la limpieza, exploración y modelización de datos.
